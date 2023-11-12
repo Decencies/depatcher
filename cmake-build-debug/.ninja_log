@@ -1,0 +1,27 @@
+# ninja log v5
+3571	4098	7215315386750071	depatcher.exe	ad41041e81108be3
+5	2307	7215342055939756	CMakeFiles/mod.dir/src/mod/DllMain.cpp.obj	aeee2c00931bb17a
+4	1226	7215059288638828	CMakeFiles/depatcher.dir/src/RDI/inject/LoadLibraryR.c.obj	4c195a71bc61f16b
+1	182	7215343151248738	build.ninja	494a4a95b8026906
+0	13	0	clean	3ac1ac369df1e668
+2004	2141	7215320078424842	libmod.dll.a	871ed681cb334f0c
+16	105	7215295996150225	CMakeFiles/mod.dir/src/mod/ModMain.cpp.obj	2d04d5f0d67fbaa8
+4	3570	7215315381564428	CMakeFiles/depatcher.dir/src/launcher/WinMain.cpp.obj	1422ebb33fb06599
+1451	1704	7214295185990485	libmod.a	1eadbe57dd44de77
+2004	2141	7215320078424842	libmod.dll	871ed681cb334f0c
+3	1356	7215058868894789	CMakeFiles/depatcher.dir/src/RDI/inject/GetProcAddressR.c.obj	9b73b30435deffe0
+6	2247	7215295639733600	CMakeFiles/depatcher.dir/src/RDI/inject/GetProcAddressR.cpp.obj	89def8a5e6cd91ba
+18	2283	7215295640103581	CMakeFiles/depatcher.dir/src/RDI/inject/LoadLibraryR.cpp.obj	8904366fe4803d8c
+7	6434	7215341921664731	CMakeFiles/mod.dir/src/RDI/dll/ReflectiveLoader.cpp.obj	af10100e8b282283
+13	2171	7215343211204023	CMakeFiles/mod.dir/src/mod/DllMain.cpp.obj	aeee2c00931bb17a
+5	2260	7215343212104034	CMakeFiles/mod.dir/src/mod/Hooks.cpp.obj	ce9496c71776fc63
+19	2272	7215343212224018	CMakeFiles/mod.dir/src/mod/Depatcher.cpp.obj	76ea291370a30eec
+2272	2420	7215343213644020	libmod.dll	4513a58933a6e9d1
+2272	2420	7215343213644020	libmod.dll.a	4513a58933a6e9d1
+6	2165	7215343236469240	CMakeFiles/depatcher.dir/src/RDI/inject/GetProcAddressR.cpp.obj	dac9cd317ec1c0a5
+18	2213	7215343236979220	CMakeFiles/depatcher.dir/src/RDI/inject/LoadLibraryR.cpp.obj	bac04b59bde051f4
+13	3116	7215343246009232	CMakeFiles/depatcher.dir/src/launcher/WinMain.cpp.obj	cf8ebfc7a59447f9
+3117	3685	7215343251619206	depatcher.exe	ad41041e81108be3
+6	2471	7215343340822138	CMakeFiles/mod.dir/src/mod/DllMain.cpp.obj	aeee2c00931bb17a
+2471	2619	7215343342242134	libmod.dll	4513a58933a6e9d1
+2471	2619	7215343342242134	libmod.dll.a	4513a58933a6e9d1
